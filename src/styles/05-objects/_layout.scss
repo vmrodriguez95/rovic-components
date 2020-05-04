@@ -1,0 +1,9 @@
+.o-layout {
+  display: flex;
+  flex-wrap: wrap;
+
+  &__column {
+    display: block;
+    width: 100%;
+  }
+}

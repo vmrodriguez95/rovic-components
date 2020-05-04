@@ -1,0 +1,44 @@
+{
+  "name": "love-web-birthday",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server --open --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmrodriguez95/love-web-birthday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmrodriguez95/love-web-birthday/issues"
+  },
+  "homepage": "https://github.com/vmrodriguez95/love-web-birthday#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "autoprefixer": "^9.7.6",
+    "babel-loader": "^8.1.0",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "core-js": "^3.6.5",
+    "css-loader": "^3.5.2",
+    "cssnano": "^4.1.10",
+    "csso-webpack-plugin": "^2.0.0-beta.1",
+    "file-loader": "^6.0.0",
+    "group-css-media-queries-loader": "^3.0.2",
+    "handlebars": "^4.7.6",
+    "handlebars-loader": "^1.7.1",
+    "html-webpack-plugin": "^4.2.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "postcss-loader": "^3.0.0",
+    "regenerator-runtime": "^0.13.5",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    "webpack-merge": "^4.2.2"
+  }
+}
