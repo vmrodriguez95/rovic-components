@@ -1,5 +1,5 @@
 {
-  "name": "love-web-birthday",
+  "name": "rovic-components",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vmrodriguez95/love-web-birthday.git"
+    "url": "git+https://github.com/vmrodriguez95/rovic-components.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vmrodriguez95/love-web-birthday/issues"
+    "url": "https://github.com/vmrodriguez95/rovic-components/issues"
   },
-  "homepage": "https://github.com/vmrodriguez95/love-web-birthday#readme",
+  "homepage": "https://github.com/vmrodriguez95/rovic-components#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
