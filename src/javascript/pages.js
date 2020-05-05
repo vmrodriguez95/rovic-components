@@ -4,6 +4,7 @@ const pages = [
     fileName: 'views/index',
     title: 'Componentes ROVIC',
   },
+  // Componente Button
   {
     path: 'components/button/',
     fileName: '_button',
@@ -14,6 +15,7 @@ const pages = [
     fileName: 'index',
     title: 'Button Examples',
   },
+  // Componente carousel
   {
     path: 'components/carousel/',
     fileName: '_carousel',
